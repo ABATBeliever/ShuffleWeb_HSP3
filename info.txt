@@ -1,0 +1,25 @@
+【アプリ名称】Shuffle Web
+
+【バージョン】1
+
+【 更 新 日 】2024/08/07
+
+【 動作環境 】・Windows10以上
+	      ・4GBメモリ
+              ・22.0 MBの領域
+              (仮想環境ではホスト・ゲストともに要件を満たす必要があります)
+
+【ファイル名】・ShuffleWeb.exe 
+              ・WebView2Loader.dll
+              ・List.txt
+
+【 再 配 布 】可
+
+【ライセンス】フリーウェア(WebView2Loader、HSP3等のライセンスに従ってください)
+・HSP3でWebViewを動作させるコードのページ | https://blog.goo.ne.jp/hiro239415/e/5041aec497e02427c2b123aef07977e3
+・WebView2Loader配布元(nuget)             | https://www.nuget.org/packages/Microsoft.Web.WebView2
+・HotSoupProcessor3                       | https://hsp.tv/
+
+【   機能   】再生ボタンが押されるたびにList.txtのどれかのURLに移動します。
+
+2022-2024
